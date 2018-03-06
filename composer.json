@@ -1,0 +1,15 @@
+{
+    "name": "inri13666/phar-TinyPNG",
+    "type": "library",
+    "require": {
+        "tinify/tinify": "*"
+    },
+    "license": "WTFPL",
+    "authors": [
+        {
+            "name": "Nikita Makarov",
+            "email": "mesaverde228@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
